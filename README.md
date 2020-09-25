@@ -1,10 +1,7 @@
-<center>
 <div>
   <img height="400" src="https://github.com/ennovab/enrio/blob/master/Enriologo.jpg">
 </div>
-</center>
 
-# ENRIO
 One-stop destination for Necessities
 
 ## What is Enrio? 
