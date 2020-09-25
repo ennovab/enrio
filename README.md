@@ -7,4 +7,4 @@ Key features of Enrio: ● Simple to use. ● Safe and Secure Renting. ● Faste
 
 Future Plans: Our future plans are to expand the platform so that it can be accessible by other universities for their own needful purposes and can be served to them instantly. We also plan to extend the time limit so that we can use it anytime and anywhere.
 
-Developer Contact: Mail Id: enriosrm@gmail.com Mail Id: pragyagupta270401@gmail.com
+Developer Contact: Mail Id: enriosrm@gmail.com 
