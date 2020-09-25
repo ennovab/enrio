@@ -16,4 +16,9 @@ Enrio, A "Rent In and Out" platform for the students of SRM University AP, which
 
 Our future plans are to expand the platform so that it can be accessible by other universities for their own needful purposes and can be served to them instantly. We also plan to extend the time limit so that we can use it anytime and anywhere.
 
-Developer Contact: Mail Id: enriosrm@gmail.com 
+<code>
+  <img height="500" src="https://github.com/ennovab/enrio/blob/master/Enrio.jpg">
+</code>
+<br>
+
+* Developer Contact: enriosrm@gmail.com 
