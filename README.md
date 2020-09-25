@@ -1,9 +1,9 @@
 # ENRIO
-Enrio: One-stop destination for Necessities
+One-stop destination for Necessities
 
 ## What is Enrio? 
 
-Enrio, A * "Rent In and Out" * platform for the students of SRM University AP, which will provide you with your necessities on rent during the college working hours so that you can make the best use of your time, boost your productivity and even save your money. Keeping in mind the security of each and every product rented in or out we provide all details along with the terms and conditions. We are credible by keeping on check the status of the products before you rent it and out. We also provide you with access to choose a variety of products which you can rent in or out.
+Enrio, A "Rent In and Out" platform for the students of SRM University AP, which will provide you with your necessities on rent during the college working hours so that you can make the best use of your time, boost your productivity and even save your money. Keeping in mind the security of each and every product rented in or out we provide all details along with the terms and conditions. We are credible by keeping on check the status of the products before you rent it and out. We also provide you with access to choose a variety of products which you can rent in or out.
 
 > Key features of Enrio: 
 * Simple to use. 
