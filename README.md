@@ -18,13 +18,8 @@ Our future plans are to expand the platform so that it can be accessible by othe
 
 <code>
   <img height="500" src="https://github.com/ennovab/enrio/blob/master/Enrio.jpg">
-  <img height="500" src="https://github.com/ennovab/enrio/blob/master/Screenshot_20200925-212259%20(3).jpg">
-  <img height="500" src="https://github.com/ennovab/enrio/blob/master/Screenshot_20200925-212305%20(2).jpg">
-  <br>
-  <img height="500" src="https://github.com/ennovab/enrio/blob/master/Screenshot_20200925-212311%20(3).jpg">
-  <img height="500" src="https://github.com/ennovab/enrio/blob/master/Screenshot_20200925-212322%20(2).jpg">
-  <img height="500" src="https://github.com/ennovab/enrio/blob/master/Screenshot_20200925-212357%20(2).jpg">
 </code>
 <br>
 
+* Link of app logo: https://drive.google.com/file/d/19SsAYRp-hzOu0vQG3AnIl2Nrl6WWcRaZ/view?usp=drivesdk
 * Developer Contact: enriosrm@gmail.com 
